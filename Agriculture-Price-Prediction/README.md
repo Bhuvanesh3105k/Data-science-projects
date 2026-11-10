@@ -7,11 +7,11 @@ This project predicts agriculture commodity prices using Machine Learning.
 To predict agriculture commodity prices based on historical data.
 
 ## Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Scikit-learn.
 
 ## Algorithm
 Linear Regression
