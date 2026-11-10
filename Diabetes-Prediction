@@ -1,0 +1,27 @@
+Diabetes Prediction
+
+## Project Overview
+
+This project uses Machine Learning to predict diabetes based on patient data.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+
+## Machine Learning Algorithm
+
+- Logistic Regression
+
+## Techniques Used
+
+- Train Test Split
+- Recursive Feature Elimination (RFE)
+
+## Project Objective
+
+To build a machine learning model that predicts diabetes using patient health information.
